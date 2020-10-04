@@ -32,7 +32,7 @@
 
 2.) Source Code Management:
 * Source Code Management:
-  - Repository: https://github.com/yankils/hello-world.git
+  - Repository: https://github.com/kunal8817/hello-world.git
   - Branches to build : */master
 * Build:
   - Root POM: pom.xml

@@ -14,7 +14,7 @@ We know how to use work with both git and Jenkins independently. What if you wan
 1.) Login to Jenkins console
 2.) Create Jenkins job, Fill the following details.
 * Source Code Management:
-  - Repository: https://github.com/yankils/hello-world.git
+  - Repository: https://github.com/kunal8817/hello-world.git
   - Branches to build : */master
 * Build:
   - Root POM: pom.xml
